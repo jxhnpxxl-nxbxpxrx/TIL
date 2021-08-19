@@ -6,10 +6,10 @@ is a template driven tool for creating and managing serverless applications. In 
 
 
 
-## Installing AWS on Ubuntu 20.04 
+## Installing AWS on Ubuntu 20.04
 ###
 
-1. Download the AWS SAM CLI zip file (https://github.com/aws/aws-sam-cli/releases/latest/download/aws-sam-cli-linux-x86_64.zip)
+1. Download the [AWS SAM CLI zip file](https://github.com/aws/aws-sam-cli/releases/latest/download/aws-sam-cli-linux-x86_64.zip)
 2. Paste the downloaded file to `\\wsl$\Ubuntu-20.04\home\<<ubuntu Name>>`
 3. Run `sha256sum aws-sam-cli-linux-x86_64.zip` inside the ubuntu terminal
 
